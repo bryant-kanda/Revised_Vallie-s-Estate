@@ -36,4 +36,9 @@ h2{color: #2549D3;
         border-style: solid;
         border-color: #FAFAFA;
         padding: 2%;}
-    .part3 > h3{color: #2549D3;}
+    .part3 > h3{color: #2549D3;
+            font-size: larger;}
+    .part3 > h4{color: #2549D3;
+    text-align: center;
+            font-size: larger;}
+    .part3 > p{text-align: center;}
