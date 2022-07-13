@@ -74,10 +74,18 @@ h2{color: #2549D3;
     #cash{color:blue;}
     .part8{
         margin-left: 80%;}
-     .part10{
+    .part9{text-align: center;}
+    .part10{display: flex;
+        justify-content: space-around;
+        padding: 2%;
+    }
+     .part11{
             background-color: #2549D3;
             color: white;
             justify-content: space-around;
             display: flex;
-            padding: 9px 25px;}
-        ul{list-style-type: none;}
+            padding-bottom: 10%;
+            padding-top: 5%;
+            margin-left: 5%;
+            margin-right: 5%;}
+            ul{list-style-type: none;}
