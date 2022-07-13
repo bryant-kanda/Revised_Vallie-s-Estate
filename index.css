@@ -3,3 +3,22 @@
 #home{
         color:#0e247e;
         font-weight: 600; }
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    padding: 2%;
+     }
+     button{
+        color: #FAFAFA;
+        padding: 9px 25px;
+        background-color: #2549D3;
+        border: none;
+        border-bottom: 25px;
+        line-height: 10px;}
+.part1{
+        display: flex;
+        margin-left: 5%;
+        align-items: center;
+        justify-content: space-around;
+        padding: 1%;}
