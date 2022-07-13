@@ -7,7 +7,9 @@ nav{
     display: flex;
     justify-content: space-around;
     margin-left: 5%;
+    margin-right: 5%;
     padding: 2%;
+    border: solid rgb(236, 231, 231);
      }
      button{
         color: #FAFAFA;
