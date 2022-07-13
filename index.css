@@ -24,3 +24,15 @@ nav{
         padding-bottom: 5%;}
 h2{color: #2549D3;
     font-size: x-large;}
+    .type{
+        color: #0e247e;}
+    .desc{color: rgb(143, 136, 136);}
+    .part2{
+        display: flex;
+        justify-content: space-around;
+        max-width: 70%;
+        margin-left: 15%;
+        box-shadow: inset;
+        border-style: solid;
+        border-color: #FAFAFA;
+        padding: 2%;}
