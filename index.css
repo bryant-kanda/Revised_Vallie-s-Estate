@@ -59,4 +59,9 @@ h2{color: #2549D3;
             margin-top: 5%;
             margin-bottom: 5%;
             padding: 2%;}
-    
+
+     .part5{ display: flex;
+            justify-content: space-around;
+            }
+        h4{color: #2549D3;
+            font-size: larger;}
