@@ -65,3 +65,12 @@ h2{color: #2549D3;
             }
         h4{color: #2549D3;
             font-size: larger;}
+    .part6{text-align: center;}
+    .part7{
+        display: flex;
+        justify-content: space-around;
+        max-width: 85%;
+        margin-left: 5%;}
+    #cash{color:blue;}
+    .part8{
+        margin-left: 80%;}
