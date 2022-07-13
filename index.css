@@ -74,3 +74,10 @@ h2{color: #2549D3;
     #cash{color:blue;}
     .part8{
         margin-left: 80%;}
+     .part10{
+            background-color: #2549D3;
+            color: white;
+            justify-content: space-around;
+            display: flex;
+            padding: 9px 25px;}
+        ul{list-style-type: none;}
